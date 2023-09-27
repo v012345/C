@@ -1,1 +1,10 @@
+# C/C++
 build
+
+# ts
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+
